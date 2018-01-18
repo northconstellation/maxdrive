@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'pfdintextcomppro-bolditalic';
+    src: url('fonts/pfdintextcomppro-bolditalic.eot');
+    src: url('fonts/pfdintextcomppro-bolditalic.eot') format('embedded-opentype'),
+    url('fonts/pfdintextcomppro-bolditalic.woff2') format('woff2'),
+    url('fonts/pfdintextcomppro-bolditalic.woff') format('woff'),
+    url('fonts/pfdintextcomppro-bolditalic.ttf') format('truetype'),
+    url('fonts/pfdintextcomppro-bolditalic.svg#pfdintextcomppro-bolditalic') format('svg');
+}
+
+
+@font-face {
+    font-family: 'pf_din_text_comp_promedium';
+    src: url('fonts/pfdintextcomppro-medium-webfont.eot');
+    src: url('fonts/pfdintextcomppro-medium-webfont.eot?#iefix') format('embedded-opentype'),
+    url('fonts/pfdintextcomppro-medium-webfont.woff2') format('woff2'),
+    url('fonts/pfdintextcomppro-medium-webfont.woff') format('woff'),
+    url('fonts/pfdintextcomppro-medium-webfont.svg#pf_din_text_comp_promedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'pf_din_text_comp_prolight';
+    src: url('fonts/pfdintextcomppro-light-webfont.eot');
+    src: url('fonts/pfdintextcomppro-light-webfont.eot?#iefix') format('embedded-opentype'),
+    url('fonts/pfdintextcomppro-light-webfont.woff2') format('woff2'),
+    url('fonts/pfdintextcomppro-light-webfont.woff') format('woff'),
+    url('fonts/pfdintextcomppro-light-webfont.svg#pf_din_text_comp_prolight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'pfdintextcomppro-regular-webfont';
+    src: url('fonts/pfdintextcomppro-regular-webfont.eot');
+    src: url('fonts/pfdintextcomppro-regular-webfont.eot?#iefix') format('embedded-opentype'),
+    url('fonts/pfdintextcomppro-regular-webfont.woff') format('woff'),
+    url('fonts/pfdintextcomppro-regular-webfont.ttf') format('truetype'),
+    url('fonts/pfdintextcomppro-regular-webfont.svg#pfdintextcomppro-regular-webfont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* Код для подключения шрифта в /css/stylename.css */
+/* font-family: "ArialNarrowRegular"; */
+@font-face {
+    font-family: "ArialNarrowRegular";
+    src: url("fonts/ArialNarrowRegular/ArialNarrowRegular.eot");
+    src: url("fonts/ArialNarrowRegular/ArialNarrowRegular.eot?#iefix")format("embedded-opentype"),
+    url("fonts/ArialNarrowRegular/ArialNarrowRegular.woff") format("woff"),
+    url("fonts/ArialNarrowRegular/ArialNarrowRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "ArialNarrowBold"; */
+@font-face {
+    font-family: "ArialNarrowBold";
+    src: url("fonts/ArialNarrowBold/ArialNarrowBold.eot");
+    src: url("fonts/ArialNarrowBold/ArialNarrowBold.eot?#iefix")format("embedded-opentype"),
+    url("fonts/ArialNarrowBold/ArialNarrowBold.woff") format("woff"),
+    url("fonts/ArialNarrowBold/ArialNarrowBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "ArialNarrowItalic"; */
+@font-face {
+    font-family: "ArialNarrowItalic";
+    src: url("fonts/ArialNarrowItalic/ArialNarrowItalic.eot");
+    src: url("fonts/ArialNarrowItalic/ArialNarrowItalic.eot?#iefix")format("embedded-opentype"),
+    url("fonts/ArialNarrowItalic/ArialNarrowItalic.woff") format("woff"),
+    url("fonts/ArialNarrowItalic/ArialNarrowItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "ArialNarrowBoldItalic"; */
+@font-face {
+    font-family: "ArialNarrowBoldItalic";
+    src: url("fonts/ArialNarrowBoldItalic/ArialNarrowBoldItalic.eot");
+    src: url("fonts/ArialNarrowBoldItalic/ArialNarrowBoldItalic.eot?#iefix")format("embedded-opentype"),
+    url("fonts/ArialNarrowBoldItalic/ArialNarrowBoldItalic.woff") format("woff"),
+    url("fonts/ArialNarrowBoldItalic/ArialNarrowBoldItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}

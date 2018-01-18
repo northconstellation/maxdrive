@@ -1,0 +1,152 @@
+@media screen and (max-width: 768px) and (min-width: 640px) {
+
+    .content_middle {
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+
+    .b-about__itemAbout {
+        width: 22%;
+    }
+
+    .b-itemAbout__text {
+        font-size: 18px;
+    }
+
+    .b-blockAbout__listHelpLeft {
+        width: 60%;
+        margin: 0 4% 0 0;
+    }
+
+    .b-blockAbout__listHelpRight {
+        width: 35%;
+    }
+
+    .b-listHelp__itemorange {
+        padding: 0 0 15px 30px;
+        font-size: 18px;
+    }
+
+    .b-listHelp__itemorange:before {
+        top: 5px;
+    }
+
+    .b-listHelp__itemgreen {
+        padding: 0 0 15px 30px;
+        font-size: 18px;
+    }
+
+    .b-listHelp__itemgreen:before {
+        top: 5px;
+    }
+
+
+
+    .b-osobennosti__subtitle {
+        font-size: 22px;
+    }
+
+    .b-work__subtitle {
+        font-size: 22px;
+    }
+
+    .b-sferu__subtitle {
+        font-size: 24px;
+    }
+
+    .b-sferu__title {
+        font-size: 40px;
+    }
+
+    .b-format__subtitle {
+        font-size: 22px;
+    }
+
+    .b-firstContent__text {
+        font-size: 21px;
+    }
+
+    .b-secondContent__text {
+        font-size: 21px;
+    }
+
+    .b-thirdContent__text {
+        font-size: 21px;
+    }
+
+    .b-global__subtitle {
+        font-size: 22px;
+    }
+
+    .b-rightAuthor__item {
+        line-height: 1.2;
+        font-size: 18px;
+        padding: 0 0 0 15px;
+        margin-bottom: 15px;
+    }
+
+    .b-author__subtitle {
+        font-size: 22px;
+    }
+
+    .b-footerMenu__item {
+        margin: 0% 0 0 2%;
+    }
+
+    .b-rightCase__title {
+        font-size: 22px;
+    }
+
+    .b-case__leftCase {
+        margin: 0 2% 0 0;
+    }
+
+    .b-case__rightCase {
+        width: 33%;
+    }
+
+    .b-rightCase:before {
+        top: -20px;
+        background-size: 90%;
+    }
+
+    .b-rightCase {
+        padding: 0 0 0 0px;
+    }
+
+    .b-leftWeek__img {
+        position: relative;
+        left: -100px;
+        max-width: 200px;
+        padding: 25px 0;
+        background: #ffffff;
+    }
+
+    .button-to-action {
+        font-size: 22px;
+    }
+
+    .b-packetItem__list {
+        padding: 0 10px;
+        min-height: 440px;
+    }
+
+    .b-packetItem__priceNum {
+        font-size: 18px;
+    }
+    .button_order {
+        font-size: 22px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+

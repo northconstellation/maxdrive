@@ -1,0 +1,565 @@
+@media screen and (max-width: 640px) {
+
+    .content_middle {
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+
+    .b-about__itemAbout {
+        width: 100%;
+        display: block;
+        margin: 0 0 10% 0;
+    }
+
+    .b-about__itemAbout:first-child {
+        margin: 0 0 10% 0;
+    }
+
+    .b-itemAbout__text {
+        font-size: 18px;
+    }
+
+    .b-blockAbout__listHelpLeft {
+        width: 100%;
+        margin: 0 0 10% 0;
+        display: block;
+    }
+
+    .b-blockAbout__listHelpRight {
+        width: 100%;
+        display: block;
+    }
+
+    .b-listHelp__itemorange {
+        padding: 0 0 15px 30px;
+
+    }
+
+    .b-listHelp__itemorange:before {
+        top: 5px;
+        font-size: 18px;
+    }
+
+    .b-listHelp__itemgreen {
+        padding: 0 0 15px 30px;
+        font-size: 18px;
+    }
+
+    .b-listHelp__itemgreen:before {
+        top: 5px;
+    }
+
+    .b-osobennosti__subtitle {
+        font-size: 18px;
+    }
+
+    .b-work__subtitle {
+        font-size: 18px;
+    }
+
+    .b-sferu__subtitle {
+        font-size: 18px;
+    }
+
+    .b-sferu__title {
+        font-size: 30px;
+    }
+
+    .b-format__subtitle {
+        font-size: 18px;
+        margin: 0px 0 20px 0;
+    }
+
+    .b-firstContent__text {
+        font-size: 18px;
+    }
+
+    .b-secondContent__text {
+        font-size: 18px;
+    }
+
+    .b-thirdContent__text {
+        font-size: 18px;
+    }
+
+    .b-global__subtitle{
+        font-size: 18px;
+    }
+
+    .b-rightAuthor__item {
+        line-height: 1.2;
+        font-size: 18px;
+        padding: 0 0 0 15px;
+        margin-bottom: 15px;
+    }
+
+    .b-author__subtitle{
+        font-size: 18px;
+    }
+
+    .b-footerMenu__item {
+        margin: 0% auto;
+        text-align: center;
+        display: block;
+    }
+
+    .b-header__slogan {
+        font-size: 15px;
+        margin: 30px 0 30px 0;
+        padding: 15px 10px 35px;
+        background-size: 100%;
+    }
+
+    .b-header__subtitle {
+        font-size: 20px;
+        color: #054825;
+    }
+
+    .b-container__header {
+        padding: 20px 0 40px;
+    }
+
+    .button {
+        font-size: 20px;
+    }
+
+    .btn_subtext {
+        font-size: 16px;
+    }
+
+    .b-header__subbutton {
+        font-size: 16px;
+    }
+
+    .b-container__about {
+        padding: 40px 0;
+    }
+    .b-about__blockAbout {
+        padding: 20px 0 0px 0;
+    }
+
+    .b-container__work {
+        padding: 40px 0;
+    }
+
+    .b-work__title {
+        font-size: 32px;
+    }
+
+    .b-blockWork__listWork {
+        display: block;
+        width: 100%;
+        margin: 0 0 5% 0;
+    }
+
+    .b-listWork__item {
+        font-size: 18px;
+    }
+
+    .b-container__osobennosti {
+        padding: 40px 0;
+    }
+
+    .b-osobennosti__title {
+        font-size: 32px;
+    }
+
+    .b-listOsobennosti__itemNum {
+        width: 8%;
+    }
+
+    .b-listOsobennosti__itemText {
+        display: inline-block;
+        vertical-align: top;
+        width: 87%;
+    }
+
+    .b-listOsobennosti__item {
+         font-size: 18px;
+     }
+
+
+    .b-osobennosti__listOsobennosti {
+        margin: 0 0 40px 0;
+    }
+
+
+    .b-container__sferu {
+        padding: 40px 0;
+    }
+
+    .b-container__format {
+        padding: 40px 0;
+    }
+
+    .b-format__title {
+        font-size: 32px;
+    }
+
+    .b-formatItem__formatIco {
+        display: block;
+        width: 100%;
+        margin: 0 0 0% 0;
+    }
+
+    .b-formatItem__formatText {
+        display: block;
+        width: 100%;
+        margin: 0 0 0% 0;
+    }
+
+    .b-formatText {
+        text-align: center;
+    }
+
+    .b-formatText__text {
+        font-size: 18px;
+        line-height: 1.4;
+    }
+
+    .b-formatText__title {
+        font-size: 18px;
+    }
+
+    .b-format__formatBlock {
+        margin: 0px 0 40px 0;
+    }
+
+    .b-present__title {
+        font-size: 32px;
+        margin: 0px 0 10px 0;
+    }
+
+    .b-container__present {
+        padding: 40px 0;
+
+    }
+
+    .b-present__subtitle {
+        font-size: 20px;
+        margin: 5px 0 30px 0;
+        line-height: 1.2;
+        padding: 5px 20px 8px;
+    }
+
+    .b-present__texttitle {
+        font-size: 18px;
+        line-height: 1.2;
+    }
+
+    .b-blockStairs__stairsRirst {
+        display: block;
+        vertical-align: bottom;
+        width: 100%;
+        margin: 0 auto 10%;
+        max-width: 300px;
+    }
+
+    .b-stairsRirst__firstContent {
+        padding: 40px 10px 30px;
+    }
+
+    .b-blockStairs__stairsSecond {
+        display: block;
+        vertical-align: bottom;
+        width: 100%;
+        margin: 0 auto 10%;
+        max-width: 300px;
+    }
+
+    .b-stairsSecond__secondContent {
+        padding: 40px 10px 30px;
+    }
+
+    .b-blockStairs__stairsThird {
+        display: block;
+        vertical-align: bottom;
+        width: 100%;
+        margin: 0 auto 10%;
+        max-width: 300px;
+    }
+
+    .b-stairsThird__thirdContent {
+        padding: 40px 10px 30px;
+    }
+
+    .b-present__blockStairs {
+        margin: 0 0 40px 0;
+    }
+
+    .b-global__title {
+        font-size: 36px;
+    }
+
+    .b-container__global {
+        padding: 40px 0;
+    }
+
+    .b-nehotim__title {
+        font-size: 32px;
+        margin: 0px 0 20px 0;
+    }
+
+    .b-container__nehotim {
+        padding: 40px 0;
+    }
+
+    .b-listNehotim__item {
+        font-size: 18px;
+    }
+
+    .b-author__title {
+        font-size: 32px;
+        margin: 0px 0 20px 0;
+    }
+
+    .b-container__author {
+        padding: 40px 0;
+    }
+
+    .b-contentAuthor__leftAuthor {
+        display: block;
+        width: 100%;
+        margin: 0 0 10% 0;
+    }
+
+    .b-leftAuthor__img {
+        max-width: 300px;
+    }
+
+    .b-contentAuthor__rightAuthor {
+        display: block;
+        width: 100%;
+    }
+
+    .itemAuthor1:before {
+        content: '';
+        display: none;
+    }
+
+    .itemAuthor2:before {
+        content: '';
+        display: none;
+    }
+
+    .itemAuthor3:before {
+        content: '';
+        display: none;
+    }
+
+    .itemAuthor4:before {
+        content: '';
+        display: none;
+    }
+
+    .itemAuthor5:before {
+        content: '';
+        display: none;
+    }
+
+    .itemAuthor6:before {
+        content: '';
+        display: none;
+    }
+
+    .itemAuthor7:before {
+        content: '';
+        display: none;
+    }
+    .b-rightAuthor__item:before {
+    content: '';
+    display: block;
+    width: 8px;
+    height: 8px;
+    background: #ea6928;
+    border-radius: 50%;
+    position: absolute;
+    top: 10px;
+    left: 0px;
+    }
+
+    .b-recommend {
+        padding: 15px;
+    }
+
+    .b-recommend__leftRecommend {
+        display: block;
+        width: 100%;
+        vertical-align: middle;
+        margin: 0 0 10% 0;
+    }
+
+    .b-recommend__rightRecommend {
+        display: block;
+        width: 100%;
+        vertical-align: middle;
+    }
+
+    .b-recomend__recommend {
+        position: relative;
+        z-index: 2;
+        top: -20px;
+    }
+
+    .b-leftRecommend__title {
+        margin: 0 0 15px 0;
+    }
+
+    .b-leftRecommend__text {
+        font-size: 18px;
+        line-height: 1.2;
+        margin: 0 0 5px 0;
+    }
+
+    .b-leftRecommend__sign {
+        font-size: 20px;
+    }
+
+    .b-testim__title {
+        font-size: 30px;
+    }
+
+    .modal-body {
+        position: relative;
+        padding: 10px 10px 10px;
+    }
+
+    .b-case__leftCase {
+        display: block;
+        width: 100%;
+        margin: 0 0% 5% 0;
+    }
+
+    .b-case__rightCase {
+        display: none;
+    }
+
+    .b-case__rightCaseHidden {
+        display: block;
+    }
+
+
+    .b-blockHelp__img1 {
+        max-width: 150px;
+        margin: 0 0 10px 0;
+    }
+
+    .b-blockHelp__img2 {
+        max-width: 186px;
+        margin: 0 0 10px 0;
+    }
+
+    .b-blockAbout__reverse{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .b-blockWeek__leftWeek {
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .b-blockWeek__rightWeek {
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .b-week__title {
+        font-size: 32px;
+        margin: 0 0 20px 0;
+    }
+
+    .b-listProgrammWeek {
+        display: block;
+        margin: 10px 0 20px;
+    }
+
+    .b-leftWeek__img {
+        position: relative;
+      left: auto;
+        max-width: 200px;
+        padding: 25px 0;
+        background: #ffffff;
+    }
+
+
+    .b-week__blockWeek {
+        padding: 0px;
+        border-radius: 5px;
+        margin: 0 0 30px 0px;
+    }
+
+    .b-rightWeek__title {
+        font-size: 24px;
+    }
+
+    .b-blockWeek {
+        padding: 10px;
+        text-align: center;
+    }
+
+    .b-listProgrammWeek__item {
+        font-size: 16px;
+        text-align: left;
+        margin: 0 0 5px;
+        position: relative;
+        padding: 0 0 0 10px;
+        font-weight: 400;
+    }
+
+    .b-listResultWeek__item2 {
+        font-size: 16px;
+    }
+
+    .b-listResultWeek__item3 {
+        font-size: 16px;
+    }
+
+    .b-listResultWeek__item4 {
+        font-size: 16px;
+    }
+
+    .b-listResultWeek__item5 {
+        font-size: 16px;
+    }
+
+    .b-listResultWeek__item6 {
+        font-size: 16px;
+    }
+    .button-to-action {
+        font-size: 16px;
+    }
+
+    .b_present__title {
+        font-size: 32px;
+    }
+
+    .b-container__part {
+        padding: 40px 0;
+    }
+
+    .b-timer__text {
+        font-size: 20px;
+        text-transform: uppercase;
+        margin: 5% 0 4% 0;
+    }
+
+    .b-packetBlock__packetItem {
+        display: block;
+        width: 100%;
+        vertical-align: top;
+        margin: 0 0 8% 0%;
+    }
+
+    .b-packetBlock__packetItem:first-child {
+        margin: 0 0 8% 0%;
+    }
+
+    .b-packetItem__list {
+        padding: 0 10px;
+         min-height:auto;
+    }
+
+    }

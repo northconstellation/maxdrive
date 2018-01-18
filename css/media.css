@@ -1,0 +1,36 @@
+@media screen and (max-width: 1024px) and (min-width: 768px) {
+
+    .content_middle {
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+
+    .content_middle900 {
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+    .b-leftWeek__img {
+        position: relative;
+        left: -100px;
+        max-width: 200px;
+        padding: 25px 0;
+        background: #ffffff;
+    }
+
+    .button-to-action {
+        font-size: 22px;
+    }
+
+    .b-packetItem__list {
+        padding: 0 10px;
+        min-height: 440px;
+    }
+
+    .b-packetItem__priceNum {
+        font-size: 18px;
+    }
+    .button_order {
+        font-size: 22px;
+    }
+
+    }
